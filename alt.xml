@@ -13,8 +13,8 @@
 <package_icon>http://hydra-media.cursecdn.com/minecraft.gamepedia.com/9/9d/Block_of_Redstone.png</package_icon>
 <package_updated>2015-08-03</package_updated>
 <package_version>1.1 (for MCPE 11.1)</package_version>
-<package_platform>Android</package_platform>
-<package_category>MCPE Mod</package_category>
+<package_platform>1</package_platform>
+<package_category>1</package_category>
 <package_description>Adds functional Redstone to Minecraft Pocket Edition!</package_description>
 <package_get>https://www.dropbox.com/s/71q8yr7p35qemo1/mcperedstone.apk?dl=1</package_get>
 </item>
@@ -24,8 +24,8 @@
 <package_icon>http://hydra-media.cursecdn.com/minecraft.gamepedia.com/9/9d/Block_of_Redstone.png</package_icon>
 <package_updated>2015-09-03</package_updated>
 <package_version>N/A</package_version>
-<package_platform>iOS</package_platform>
-<package_category>MCPE Mod</package_category>
+<package_platform>2</package_platform>
+<package_category>1</package_category>
 <package_description>Redstone for MCPE iOS coming soon!</package_description>
 <package_get></package_get>
 </item>
@@ -35,8 +35,8 @@
 <package_icon>http://hydra-media.cursecdn.com/minecraft.gamepedia.com/e/e4/NetherPortal.gif</package_icon>
 <package_updated>2015-08-05</package_updated>
 <package_version>1.0 (for MCPE 11.1)</package_version>
-<package_platform>Android</package_platform>
-<package_category>MCPE Mod</package_category>
+<package_platform>1</package_platform>
+<package_category>1</package_category>
 <package_description>Adds a custom animated texture to MCPE! (try placing glowstone)</package_description>
 <package_get>https://www.dropbox.com/s/noi07w004c9regr/dynamictextures.apk?dl=1</package_get>
 </item>
